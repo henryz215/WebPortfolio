@@ -187,6 +187,7 @@ optional:
 }
 
 .section__text__p1 {
+    font-size: 1.25rem;
     text-align: center;
 }
 
@@ -292,7 +293,7 @@ optional:
 }
 
 .section__pic-container {
-    height: 400px;
+    height: 300px;
     width: 400px;
     margin: auto 0;
 }
